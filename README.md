@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+If you have any ideas that you'd like to share, want to collaborate, or just talk about tech stuff, I would love to hear from you.
 <!--
 **drazzardaq/drazzardaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
